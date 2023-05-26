@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fast Rent RSS Feed</title>
+    <link>https://creliseth.github.io/creliseth/index.html</link>
+    <description>A feed of the latest articles on my website.</description>
+    <lastBuildDate>Mon, 15 Mar 2023 00:56:23 -0500</lastBuildDate>
+    <item>
+      <title>Egg-Citing News!</title>
+      <link>https://creliseth.github.io/creliseth/index.html</link>
+      <description>Drive into upcomming Easter with us and enjoy hare-raising 10% discount!</description>
+      <pubDate>Mon, 15 Mar 2023 00:56:23 -0500</pubDate>
+    </item>
+  </channel>
+</rss>
